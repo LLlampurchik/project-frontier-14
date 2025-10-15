@@ -4,18 +4,16 @@
   equipment:
     back: ClothingBackpackSatchelHolding
     id: NFAdminPDA
-    ears: ClothingHeadsetDeathSquad # Lua
-    head: LWClothingHeadHatFoxyB # Lua
-    eyes: ClothingEyesChameleon # Lua
+    ears: ClothingHeadsetDeathSquad # Project
   storage:
     back:
+    - JawsOfLife
+    - PowerDrill
+    - WelderExperimental # Project
+    - Multitool
     - GasAnalyzer
     - trayScanner
     - AccessConfiguratorUniversal
-    - Multitool
-    - PowerDrill
-    - JawsOfLife
-    - WelderIndustrialAdvanced
 
 - type: startingGear
   id: MobClippyGear

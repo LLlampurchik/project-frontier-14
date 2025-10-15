@@ -339,6 +339,24 @@
   - NFAdvancedAnomalyResearch
   position: 3, 6
 
+# Project-start
+- type: technology
+  id: NFBluespaceParts
+  name: research-technology-bluespace-parts
+  entityIcon: BluespaceMatterBinStockPart
+  discipline: NFScience
+  secondaryDiscipline: NFEngineering
+  tier: 1
+  cost: 25000
+  recipeUnlocks:
+  - QuadraticCapacitorStockPart
+  - BluespaceMatterBinStockPart
+  - FemtoManipulatorStockPart
+  technologyPrerequisites:
+  - NFSuperParts
+  position: 4, 6
+# Project-end
+
 # region Hardsuits
 
 - type: technology

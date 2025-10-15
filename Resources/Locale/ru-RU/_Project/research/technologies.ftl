@@ -1,0 +1,1 @@
+research-technology-bluespace-parts = Блюспейс компоненты

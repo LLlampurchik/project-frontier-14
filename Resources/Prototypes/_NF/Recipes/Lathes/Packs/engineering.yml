@@ -25,4 +25,7 @@
   - SuperCapacitorStockPart
   - SuperMatterBinStockPart
   - PicoManipulatorStockPart
+  - QuadraticCapacitorStockPart
+  - FemtoManipulatorStockPart
+  - BluespaceMatterBinStockPart
   - NFWeaponParticleDecelerator
